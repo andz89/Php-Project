@@ -1,0 +1,42 @@
+
+
+/*footer start*/
+.footer-container{
+ 
+    background-color: #f8efda;
+    height: 160px;
+    display: flex;
+    justify-content: space-evenly;
+   height: 200px;
+
+}
+.footer-location{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.footer-mobile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.footer-facebook{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.last_section{
+    height: 40px;
+    background-color: #2B4865;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
